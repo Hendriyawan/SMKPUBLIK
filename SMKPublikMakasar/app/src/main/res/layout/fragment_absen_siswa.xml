@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical"
+    tools:context=".views.fragment.absens.siswa.AbsenSiswaFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical">
+
+        <include
+            android:id="@+id/layout_kelas_absen_siswa"
+            layout="@layout/layout_kelas_absen_siswa" />
+
+        <include
+            android:id="@+id/layout_jurusan_absen_siswa"
+            layout="@layout/layout_jurusan_absen_siswa"
+            android:visibility="gone" />
+
+        <include
+            android:id="@+id/layout_finger_absen_siswa"
+            layout="@layout/layout_finger_absen_siswa"
+            android:visibility="gone" />
+
+    </LinearLayout>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/button_nav_back"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_16sdp"
+        android:layout_marginEnd="@dimen/_16sdp"
+        android:layout_alignParentBottom="true"
+        android:visibility="invisible"
+        android:layout_marginBottom="@dimen/_5sdp"
+        android:text="@string/text_kembali_absen_siswa"
+        android:textAllCaps="true"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        app:backgroundTint="@color/colorAccent"
+        app:cornerRadius="@dimen/_9sdp"
+        app:rippleColor="#fff" />
+
+</RelativeLayout>

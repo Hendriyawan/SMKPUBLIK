@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">SMKPublikMakasar</string>
+    <string name="text_button_next">lanjutkan</string>
+    <string name="button_text_skip">lewati</string>
+    <string name="welcome_smk_publik">welcome smk publik</string>
+    <string name="sekolah_ini_menerapkan_sistem_pembelajaran_secara_online_menggunakan_android">Sekolah ini menerapkan sistem pembelajaran secara online menggunakan Android\n(E-Learning)</string>
+    <string name="materi_pembelajaran">Materi Pembelajaran</string>
+    <string name="belajar_lebih_simple_kreatif_dan_juga_efisien">Belajar lebih simple, kreatif dan juga efisien</string>
+    <string name="absensi_siswa_ini_menggunakan_finger_dan_tidak_khawatir_lagi_bagi_para_wali_murid_untuk_mengontrol_lehadiran_anak_secara_online">absensi siswa ini menggunakan finger dan tidak khawatir lagi bagi para wali murid untuk mengontrol lehadiran anak secara online</string>
+    <string name="absensi_siswa">absensi siswa</string>
+    <string name="button_text_start">memulai</string>
+    <string name="smk_publik">smk publik</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="masuk_akun">Masuk Akun</string>
+    <string name="daftar_akun_baru">Daftar Akun Baru</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="nama">Nama</string>
+    <string name="email_address">Email Address</string>
+    <string name="photo">Photo</string>
+    <string name="upload_nanti">Upload Nanti</string>
+    <string name="simpan_dan_lanjutkan">simpan dan lanjutkan</string>
+    <string name="drawer_open">drawer open</string>
+    <string name="drawer_close">drawer close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_title_home">Home</string>
+    <string name="navigation_title_absen_guru">Absen Guru dan Staff</string>
+    <string name="navigation_title_absen_siswa">Absen Siswa</string>
+    <string name="navigation_title_materi_pelajaran">Materi Pelajaran</string>
+    <string name="navigation_title_info_pendaftaran">Info dan Pendaftaran</string>
+    <string name="navigation_title_contact">Kontak</string>
+    <string name="navigation_title_settings">Pengaturan</string>
+    <string name="navigation_title_logout">Logout</string>
+    <string name="menu">Menu</string>
+    <string name="sekolah_menengah_kejuruan">Sekolah Menengah Kejuruan</string>
+    <string name="terakreditasi_b">terakreditasi b</string>
+    <string name="visi_smk_publik_title">visi smk publik</string>
+    <string name="visi_smk_publik">Mencerdaskan Kehidupan Bangsa yang menghasilkan Sumber daya Manusia yang mampu bersaing dalam Pasar Global dengan dilandasi imtaq yang Handal</string>
+    <string name="misi_smk_publik_title">misi smk publik</string>
+    <string name="_1">1.</string>
+    <string name="misi_1">Membentuk kepribadian peserta didik yang beriman dan bertaqwa kepada Tuhan Yang Maha Esa</string>
+    <string name="_2">2.</string>
+    <string name="misi_2">Meningkatkan Mutu Manajemen Internal Organisasi</string>
+    <string name="_3">3.</string>
+    <string name="misi_3">Meningkatkan kualitas Guru, menghasilkan Output yang berkompeten dan mampu berkompetensi kepasar kerja</string>
+    <string name="_4">4.</string>
+    <string name="misi_4">Meningkatkan kualitas proses belajar mengajar</string>
+    <string name="_5">5.</string>
+    <string name="misi_5">Menggalang kemitraan dengan instansi Pemerintahan dan Swasta sehingga Alumni dapat terserap di Dunia Kerja</string>
+    <string name="kelas">Kelas</string>
+    <string name="nisn">NISN</string>
+    <string name="wali_kelas">Wali Kelas</string>
+    <string name="nuptk">NUPTK</string>
+    <string name="jenis_absesn">Jenis Absen</string>
+    <string name="tekan_tombol_untuk_melakukan_absen">Tekan Tombol Untuk Melakukan Absen</string>
+    <string name="lokasi_anda">Lokasi Anda :</string>
+    <string name="pembina_smk_publik_1">Kepala Dinas Pendidikan Provinsi Sulsel</string>
+    <string name="pembina_smk_publik_2">Kepala Bidang PSMK Provinsi Sulsel</string>
+    <string name="pembina_smk_publik_3">Ketua Yayasan Pendidikan Publik</string>
+    <string name="pembina_smk_publik_4">Direktur Utama Perusda</string>
+    <string name="pembina_smk_publik">Pembina Smk Publik</string>
+    <string name="program_keahlian">Program Keahlian</string>
+    <string name="program_keahlian_1">administrasi perkantoran (AP)</string>
+    <string name="program_keahlian_2">akomodasi perhotelan (APH)</string>
+    <string name="program_keahlian_3">akutansi (AK)</string>
+    <string name="program_keahlian_4">Teknik Komputer Dan Jaringan (TKJ)</string>
+    <string name="program_keahlian_5">Tata Boga</string>
+    <string name="_6">6.</string>
+    <string name="program_keahlian_6">Perjalanan Wisata</string>
+    <string name="persyaratan_pendaftaran">Persyaratan Pendaftaran</string>
+    <string name="persyaratan_1">Mengisi Formulis Pendaftaran</string>
+    <string name="persyaratan_2">Foto Copy Ijazah Di Legalisir 2 Lbr</string>
+    <string name="persyaratan_3">Foto Copy kartu Keluarga (kk)</string>
+    <string name="persyaratan_4">Foto Copy SKHU Terlegalisir 2 Lbr</string>
+    <string name="persyaratan_5">Pas Photo\n3x4 = 3 Lbr\n2x3 = 3 Lbr</string>
+    <string name="none_internet_connection_message">Tidak ada sambungan Internet !</string>
+    <string name="refresh">Refresh</string>
+    <string name="text_jurusan">Jurusan</string>
+    <string name="kelas_x">Kelas X</string>
+    <string name="kelas_xi">Kelas XI</string>
+    <string name="kelas_xii">Kelas XII</string>
+    <string name="jurusan_pemrograman">Pemrograman</string>
+    <string name="jurusan_akomodasi_perhotelan">Akomodasi Perhotelan</string>
+    <string name="jurusan_teknik_komputer_dan_jaringan">Teknik Komputer dan Jaringan</string>
+    <string name="jurusan_akuntansi">Akuntansi</string>
+    <string name="jurusan_tata_boga">Tata Boga</string>
+    <string name="text_kembali_absen_siswa">Kembali</string>
+
+    <string-array name="jenis_absen">
+        <item>MASUK</item>
+        <item>PULANG</item>
+    </string-array>
+    <string-array name="kelas">
+        <item>X</item>
+        <item>XI</item>
+        <item>XII</item>
+    </string-array>
+</resources>

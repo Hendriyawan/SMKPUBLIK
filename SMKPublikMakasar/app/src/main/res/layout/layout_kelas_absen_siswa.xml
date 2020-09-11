@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorPrimary"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/button_kelas_X"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_50sdp"
+        android:text="@string/kelas_x"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textStyle="bold"
+        app:rippleColor="#FFEB3B"
+        android:layout_marginStart="@dimen/_16sdp"
+        android:layout_marginEnd="@dimen/_16sdp"
+        app:cornerRadius="@dimen/_9sdp"
+        app:strokeColor="#FFEB3B"
+        app:strokeWidth="@dimen/_2sdp"
+        app:backgroundTint="#121B38"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/button_kelas_XI"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_50sdp"
+        android:text="@string/kelas_xi"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textStyle="bold"
+        app:rippleColor="#FFEB3B"
+        android:layout_marginStart="@dimen/_16sdp"
+        android:layout_marginEnd="@dimen/_16sdp"
+        app:cornerRadius="@dimen/_9sdp"
+        app:strokeColor="#FFEB3B"
+        app:strokeWidth="@dimen/_2sdp"
+        app:backgroundTint="#121B38"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/button_kelas_XII"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_50sdp"
+        android:text="@string/kelas_xii"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textStyle="bold"
+        app:rippleColor="#FFEB3B"
+        android:layout_marginStart="@dimen/_16sdp"
+        android:layout_marginEnd="@dimen/_16sdp"
+        app:cornerRadius="@dimen/_9sdp"
+        app:strokeColor="#FFEB3B"
+        app:strokeWidth="@dimen/_2sdp"
+        app:backgroundTint="#121B38"/>
+
+
+</LinearLayout>

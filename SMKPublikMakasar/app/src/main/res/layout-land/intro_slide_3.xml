@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:gravity="center"
+    android:orientation="horizontal">
+
+    <com.yinglan.shadowimageview.ShadowImageView
+        android:layout_width="@dimen/_300sdp"
+        android:layout_height="@dimen/_200sdp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="@dimen/_20sdp"
+        app:shadowColor="@android:color/darker_gray"
+        app:shadowRound="@dimen/_4sdp"
+        app:shadowSrc="@drawable/image_slide_3" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:text="@string/materi_pembelajaran"
+            android:textAllCaps="true"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginStart="@dimen/_16sdp"
+            android:layout_marginTop="@dimen/_8sdp"
+            android:layout_marginEnd="@dimen/_16sdp"
+            android:gravity="center"
+            android:text="@string/absensi_siswa_ini_menggunakan_finger_dan_tidak_khawatir_lagi_bagi_para_wali_murid_untuk_mengontrol_lehadiran_anak_secara_online"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="#4B4C68"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+</LinearLayout>
